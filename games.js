@@ -1,7 +1,7 @@
 
     $(document).ready(function () {
 
-        // variables to store inputs 
+        // variables to store inputs (empty at the begining)
         var input1 = "";
         var input2 = "";
         var oper = "";
